@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "FANTASY",
   "base_artist": "中原めいこ",
-  "createdAt": "2026-03-25T17:05:07.282599Z",
+  "createdAt": "2026-03-25T18:16:28.428270Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,6 +155,15 @@
       "artist": "中原 めいこ",
       "has_synced": false,
       "path": "select/pl_01_Fantasy_中原_めいこ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "FANTASY",
+      "artist": "中原めいこ",
+      "has_synced": false,
+      "path": "select/localdb_01_FANTASY_中原めいこ.txt",
+      "repo_name": "fdpEAyrKwvU"
     }
   ]
 }
